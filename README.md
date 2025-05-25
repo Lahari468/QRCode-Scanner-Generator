@@ -4,7 +4,8 @@ A simple Python project to generate and scan QR codes using OpenCV and pyqrcode.
 
 This Python project allows you to generate QR codes, scan QR codes from images, and scan them in real-time using a webcam.
 
-📌 Features
+📌 Features:
+
 ✅ QR Code Generator
 - Generate QR codes from text, URL, or any string input
 - Auto-save with short, unique filenames (`cat_142609.png`)
@@ -21,7 +22,7 @@ This Python project allows you to generate QR codes, scan QR codes from images, 
 - Optional sound on successful scan
 - Draws bounding box + displays live decoded text
 
- Requirements
+Requirements:
 
 Install dependencies:
 
